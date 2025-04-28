@@ -1,6 +1,8 @@
 # bleak-house-xvii-tei
 TXTDS 404/504 course project. TEI docs for a volume (XVII) of the Bleak house (Dickens) serialized edition.
 
+Google Doc: https://docs.google.com/document/d/1lO7iDYGwfonQHsQkVEaChtM3cnvH9J1qo7Ll5mVjkSk/edit?usp=sharing
+
 Due Apr 28 @ 5pm:
 Submit a transcription in plain text of all parts of the text you'll be working on (the easiest place to do this is right in Oxygen. Open a new file and go to the "New Document" folder. This time, scroll down and "Text"). Or as much as you can... This includes:
 
